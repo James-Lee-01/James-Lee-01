@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hi 👋, I'm Yi, Li (James)</h1>
 <h3 align="center">A passionate frontend developer and skilled barista from Taiwan.</h3>
 
 <h3 align="left">About me:</h3>
@@ -26,21 +26,21 @@
 <tr>
 <td> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james-lee-01&show_icons=true&theme=dark&locale=en&layout=compact" alt="james-lee-01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=james-lee-01&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="james-lee-01" />
 </td>
 </tr>
 </table>
@@ -49,10 +49,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=james-lee-01&theme=dark" alt="james-lee-01" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=james-lee-01&theme=vision-friendly-dark" alt="james-lee-01" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=james-lee-01&show_icons=true&theme=dark&locale=en" alt="james-lee-01" />
+      <img src="https://github-readme-stats.vercel.app/api?username=james-lee-01&show_icons=true&theme=vision-friendly-dark&locale=en" alt="james-lee-01" />
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=james-lee-01&bg_color=000000&title_color=ffb000&color=785ef0&line=ffb000&point=785ef0" alt="james-lee-01" />
