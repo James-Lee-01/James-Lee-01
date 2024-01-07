@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yi, Li (James)</h1>
+<img src="github-readme-banner.gif" alt="header">
+
+<h2 align="left">Hi 👋, I'm Yi, Li (James)</h1>
 <h3 align="center">A passionate frontend developer and skilled barista from Taiwan.</h3>
 
 <h3 align="left">About me:</h3>
